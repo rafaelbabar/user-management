@@ -4,7 +4,7 @@ import datetime
 #D:\OneDrive\Desktop\Projects>streamlit run login-app-files.py
 def login():
     st.title("Login")
-    st.write("This app allows you to administer users")
+    st.write("This app allows you to add and remove users")
     st.write("Please try it out, remember to click Check User")
     st.write("username = Dave")
     st.write("password = p1")
